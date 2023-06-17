@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via +2348185581124 (mobile, whatsApp, Telegram)
+- 🐦 @jassmenn16
 
 <!---
 jomojay/jomojay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
