@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development, Dev-Ops, Machine learning and AI 
 - 🌱 I’m currently learning Full-Stack Software Engineering
 - 💞️ I’m looking to collaborate on open source / enterprise projects
-- 📫 How to reach me via +2347033306380 (mobile, whatsApp, Telegram)
+- 📫 How to reach me? via: +2347033306380 (mobile, whatsApp, Telegram)
 - 🐦 @jassmenn16
 
 ## Technologies i've mastered so far:
