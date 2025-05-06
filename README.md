@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="./assets/Architect.jpeg" alt="Software & Infrastructure Solutions Architect" style="width:600px; height:150px; object-fit:cover;" />
+  <img src="./assets/Architect.jpeg" alt="Software & Infrastructure Solutions Architect" style="width:auto; height:300px; object-fit:cover;" />
 </div>
 
 ---
